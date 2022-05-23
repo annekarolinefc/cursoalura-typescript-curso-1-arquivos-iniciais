@@ -1,0 +1,6 @@
+#TYPESCRIPT
+
+## Instalando os módulos
+- npm install
+## Server dentro do package.json
+- npm run server
